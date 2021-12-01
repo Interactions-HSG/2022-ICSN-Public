@@ -22,7 +22,7 @@ GPIO.setup(INPUT_PIN, GPIO.IN,pull_up_down=GPIO.PUD_DOWN)
 
 # Main loop, listen for infinite packets
 while True:
-    print("\nWaiting for GPIO low")
+    print("\nWaiting for GPIO")
 
     # If there was a transmission, wait until it finishes
     #GPIO.wait_for_edge(INPUT_PIN, GPIO.RISING)
