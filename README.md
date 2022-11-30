@@ -1,2 +1,2 @@
-# 2021-ICSN-Public
+# 2022-ICSN-Public
 This repository holds a public python script for measuring IR timings.
